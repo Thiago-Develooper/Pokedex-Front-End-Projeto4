@@ -1,0 +1,14 @@
+body{
+    background-color:#72DBB5 ;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.quadrado_branco {
+    border: none;
+    width: 95%;
+    border-radius: 20px;
+}
